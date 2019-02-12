@@ -1,2 +1,7 @@
-# Ethereum-IDS
-An intrusion detection system running on the ethereum blockchain.
+# truffle-init-default
+
+Default project for Truffle: example contracts, migrations and tests
+
+## Usage
+
+See the [Truffle documentation](http://truffleframework.com/docs/) for more info.
