@@ -1,7 +1,7 @@
-# truffle-init-default
+# blockchain-ids
 
-Default project for Truffle: example contracts, migrations and tests
+Graduate project for my masters at KSU.
 
 ## Usage
 
-See the [Truffle documentation](http://truffleframework.com/docs/) for more info.
+Loading snort signatures into a blockchain and seeing how it performs.
