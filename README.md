@@ -1,4 +1,4 @@
-# blockchain-ids
+# bbids
 
 Graduate project for my masters at KSU.
 
